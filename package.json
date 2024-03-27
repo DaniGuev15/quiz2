@@ -1,6 +1,6 @@
 {
   "name": "testmongoose",
-  "version": 1,
+  "version": 2,
   "description": "",
   "main": "index.js",
   "scripts": {
